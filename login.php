@@ -1,6 +1,6 @@
 <?php 
 
-session_start();
+
 if ( isset($_POST['email'] ) ){
     require_once"dbconnect.php";
     $email = $_POST['email'];

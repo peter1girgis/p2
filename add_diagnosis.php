@@ -44,7 +44,7 @@ $id = $_GET['id'];
             </form>
         </div>
         <button type="button" class="px-6 py-2 bg-gray-600 hover:bg-gray-700 text-white rounded-lg flex items-center gap-2">
-                        <i class="fas fa-times"></i> back
+                        <a href="index.php"><i class="fas fa-times"></i> back</a>
                     </button>
     </div>
     </body>
